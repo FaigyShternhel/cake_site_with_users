@@ -6,4 +6,3 @@ exports.config = {
     passDb:process.env.PASS_DB,
     tokenSecretDb:process.env.TOKEN_SECRET,
 }
-//1234
